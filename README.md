@@ -42,7 +42,7 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack developer with a str
 
 ## 📫 Let's Connect
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/jvcarv-web) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/trakinas.de.xarope?igsh=NXRidnI5cnlkam13)
- [<img alt="EMAIL" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mailto:jcarv.contato@gmail.com" />](mailto:mailto:jcarv.contato@gmail.com)
+ [<img alt="EMAIL" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=google-gmail&logoColor=white&link=mailto:mailto:jcarv.contato@gmail.com" />](mailto:mailto:jcarv.contato@gmail.com)
 
 Thanks for visiting my profile! Feel free to check out my projects and contribute. 🚀
 
