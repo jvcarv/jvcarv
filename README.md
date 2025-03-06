@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm _**João Victor**!_
+# Hello there! 👋 I'm _**João Victor**!_
 
 Welcome to my GitHub portfolio! I'm a passionate full-stack developer with a strong focus on Vue.js and modern web technologies.
 
